@@ -6,9 +6,10 @@ Name: Anita
 Major: Computer Programming
 
 ## Skills
-- Programming: Python, Java
+- Programming: Python, Jave
 - Git: Intermediate
-- Web Development: HTML,CSS
+- Web Dvelopment: HTML, CSS
+
 
 ## Projects
 - Project 1: TBD
