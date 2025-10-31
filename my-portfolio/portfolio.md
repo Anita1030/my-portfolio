@@ -10,6 +10,7 @@ Major: Computer Programming
 - Git: Intermediate
 - Web Dvelopment: HTML, CSS
 
+
 ## Projects
 - Project 1: TBD
 - Project 2: TBD
